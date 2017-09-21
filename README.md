@@ -1,5 +1,5 @@
 ### About
-Sikka is a privacy and mass adoption based cryptocurreny.
+Sikka is a privacy and mass adoption focused cryptocurreny.
 
 
 ### Usage
